@@ -1,5 +1,4 @@
-{
-  "Employee": [
+[
     {
       "name": "Yogendra",
       "department": "IT",
@@ -32,15 +31,4 @@
       "salary": "15,000",
       "id": 4
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
