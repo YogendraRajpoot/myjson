@@ -1,0 +1,46 @@
+{
+  "Employee": [
+    {
+      "name": "Yogendra",
+      "department": "IT",
+      "gender": "Male",
+      "role": "Head",
+      "salary": "50,000",
+      "id": 1
+    },
+    {
+      "name": "Anuradha",
+      "department": "Finance",
+      "gender": "Female",
+      "role": "Head",
+      "salary": "35,000",
+      "id": 2
+    },
+    {
+      "name": "Raghvendra",
+      "department": "IT",
+      "gender": "Male",
+      "role": "Head",
+      "salary": "60,000",
+      "id": 3
+    },
+    {
+      "name": "Rahul",
+      "department": "Marketing",
+      "gender": "Male",
+      "role": "Junior",
+      "salary": "15,000",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
